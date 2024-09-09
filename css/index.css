@@ -54,3 +54,23 @@ header a{
   transform: translateY(400px);
   
 }
+/* 
+.maltaimg{
+      max-width: 100%;
+      /* Ensures image doesn't exceed container width */
+      /* height: auto; */
+      /* Maintain aspect ratio 
+
+} */
+
+.maltatext{
+  width:850px;
+}
+
+.container-malta-more{
+  margin-top: 50px;
+}
+
+.container-malta-more img{
+  transform: scale(0.8);
+}
